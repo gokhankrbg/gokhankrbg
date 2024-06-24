@@ -1,4 +1,4 @@
-([https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/317595720/original/dcd1828190ba2cbc1c2dc98ed2fb00283dfe599c/make-professional-machine-learning-solutions-using-python.png](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM3bWdrZDBmczBzenA3NHllZWl5MDh0NDZpOHF3eXBtbjVubnltdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif))
+<img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzM3bWdrZDBmczBzenA3NHllZWl5MDh0NDZpOHF3eXBtbjVubnltdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif" />
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">A passionate Data Science from Türkiye</h3>
 
