@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">MSc Electrical & Electronic Engineer with a passion for Data Science</h3>
+<h3 align="center">MSc Electrical & Electronics Engineer with a passion for Data Science</h3>
 
 - 🔭 I’m currently working as [an IT Manager at Republic of Türkiye Ministry of Health](https://www.saglik.gov.tr/?_Dil=2)
 
