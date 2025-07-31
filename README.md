@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
 <h3 align="center">Electrical & Electronics Engineer | AI Research Student | MSc Artificial Intelligence @ TH Ingolstadt</h3>
 
-- 🔭 I’m currently an **AI Research Student at Technische Hochschule Ingolstadt**, pursuing my Master’s in Artificial Intelligence.
+- 🔭 I’m currently pursuing my Master’s in Artificial Intelligence.
 
 - 🌱 I’m focused on **deep learning, medical imaging, and healthcare AI**.
 
