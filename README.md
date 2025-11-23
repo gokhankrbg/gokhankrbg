@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">Electrical & Electronics Engineer | AI Research Student | MSc Artificial Intelligence @ TH Ingolstadt</h3>
+<h3 align="center"> MSc Artificial Intelligence @ TH Ingolstadt</h3>
 
-- 🔭 I’m currently pursuing my Master’s in Artificial Intelligence.
+- 🔭 I’m currently pursuing my Master’s in Artificial Intelligence, focusing on cutting-edge **Deep Learning and MLOps techniques**.
 
-- 🌱 I’m focused on **deep learning, medical imaging, and healthcare AI**.
+- 🌱 I’m actively working on projects related to **Deep Learning, MLOps, Computer Vision, and Data Science**.
 
-- 👯 I’m looking to collaborate on **AI/ML and Data Science projects**, especially in healthcare and medical applications.
+- 👯 I’m looking to collaborate on **AI/ML, Data Science, and Computer Vision projects**. I'm particularly interested in robust and scalable MLOps implementations.
 
-- 🤝 I’m open to networking and sharing knowledge on **AI in health, medical data science, and MLOps**.
+- 🤝 I’m open to networking and sharing knowledge on **Deep Learning architectures, MLOps best practices, and scalable Data Science solutions**.
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@gokhan.karabag07)
+- 📝 I regularly write articles on [Medium](https://medium.com/@gokhan.karabag07) covering AI and Data Science topics.
 
-- 💬 Ask me about **AI for healthcare, medical image analysis, data science in medicine, MLOps, and cloud-based health solutions**
+- 💬 Ask me about **Deep Learning model development, MLOps pipeline design, Computer Vision applications, and Data Science methodologies**.
 
-- 📫 How to reach me: **gokhan.karabag07@gmail.com**
+- 📫 How to reach me: **gokhankarabag.gk@gmail.com**
 
 - ⚡ Fun fact: **I love travelling, flying drones, and creating music-video projects that capture unique moments**
 
